@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppGlobalOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+    <certificate>MIIDizCCAnOgAwIBAgIUTNwjr46zv6NGpe1E+EJoq8yiDIEwDQYJKoZIhvcNAQEL
+BQAwbjELMAkGA1UEBhMCSU4xEjAQBgNVBAgMCUtBUk5BVEFLQTESMBAGA1UEBwwJ
+QkFOR0FMT1JFMQwwCgYDVQQKDANQd0MxKTAnBgkqhkiG9w0BCQEWGmFiaGlzaGVr
+Lm8ucC5rdW1hckBwd2MuY29tMB4XDTI2MDUxMTEzMDQwN1oXDTI3MDUxMTEzMDQw
+N1owbjELMAkGA1UEBhMCSU4xEjAQBgNVBAgMCUtBUk5BVEFLQTESMBAGA1UEBwwJ
+QkFOR0FMT1JFMQwwCgYDVQQKDANQd0MxKTAnBgkqhkiG9w0BCQEWGmFiaGlzaGVr
+Lm8ucC5rdW1hckBwd2MuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAsyTO7SqG60J3lwLDCCzdpFhfcr/LX0Mr+IYgocYkrlDXsVFPYhNKNMednaEk
+lN6WywK5R8xDx7EJ/FVKQtZ0iYwPYl0xqpxd8oLNvpMyu6OfoNJtuQ+I0dF8w9fA
+h+vUWsnjYRHUSXFq0hqvGc5JPpZ0/t7acAjHEOaOqhkXPsXyQznDF7FHPbvbt2eF
+yBrFD2xVZmnyehTuZiwD8eV40g2REBIdCyz7AsecnqyGOvKKY4QLke8UL9VOrmw/
+3u8ieNncPK9LsicoBUO9KKIUjtTy3yyRkg2pC48e+8IQQ43jYlTLgYxEznIhC4XW
+TTvw/s+3INCK4ANsYTrnnAFm+QIDAQABoyEwHzAdBgNVHQ4EFgQUZq8sWg0jPUru
+eIGPEH81UdSKbZswDQYJKoZIhvcNAQELBQADggEBADUn8FEQLFkx0HQp+Olc8V3X
+F0Ez6Tlitou8A68xqujlDQioYKIK00a1mVwClh9WKGDT0BvvErPOeNbzlCEJ9Qw3
+Zf1xW3a190qsI4wfZ9N3C9FeKJOmSkZWVee/AEuXJX/shcKlHrZp4nl8J5EcErwt
+Wg9C61A+9oZDkbOvBvhHT7UL+2MDUwqLZkOGkZydKtjeVYvdswpsi0SyaKJC158I
+eixjnBxTxWTQFn8iw68VacW98B74jZIrZ84ii3/LQoIOLf5DbatyBXrNLvXl17p2
+Ye5GYet2YltE2M3a+U5r+Mplzk5th8hvx76wnaFAGuK3h5wF/J9GuBWWYpP/ROc=</certificate>
+    <consumerKey>3MVG97L7PWbPq6UxG3mtSA6WOXp09RAsoMa5zwRUS3rImtXn3vpWZn5b6yEPYjgNAPt532ugybKraZICigNjZ</consumerKey>
+    <externalClientApplication>GitHub_CI_CD</externalClientApplication>
+    <isClientCredentialsFlowEnabled>false</isClientCredentialsFlowEnabled>
+    <isCodeCredFlowEnabled>false</isCodeCredFlowEnabled>
+    <isCodeCredPostOnly>false</isCodeCredPostOnly>
+    <isConsumerSecretOptional>false</isConsumerSecretOptional>
+    <isDeviceFlowEnabled>false</isDeviceFlowEnabled>
+    <isEnforceRefreshTokenTTL>false</isEnforceRefreshTokenTTL>
+    <isIntrospectAllTokens>false</isIntrospectAllTokens>
+    <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+    <isPkceRequired>true</isPkceRequired>
+    <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
+    <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+    <isSecretRequiredForTokenExchange>true</isSecretRequiredForTokenExchange>
+    <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+    <label>GitHub_CI_CD_glbloauth</label>
+    <shouldRotateConsumerKey>false</shouldRotateConsumerKey>
+    <shouldRotateConsumerSecret>false</shouldRotateConsumerSecret>
+</ExtlClntAppGlobalOauthSettings>
